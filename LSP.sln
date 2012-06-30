@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nonifslsp", "non-ifs\nonifslsp.vcxproj", "{CA607C29-F71E-411B-824E-C33969319040}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "instlsp", "install\instlsp.vcxproj", "{B68E080D-692B-440C-B079-CEA08999E87D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uninstall", "uninstall\uninstall.vcxproj", "{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LSPService", "LSPService\LSPService.vcxproj", "{FCD40AEB-C791-41AF-BC26-77D151071DF2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://srvtfs:8080/tfs/externos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = non-ifs\\nonifslsp.vcxproj
+		SccProjectName1 = non-ifs
+		SccLocalPath1 = non-ifs
+		SccProjectUniqueName2 = install\\instlsp.vcxproj
+		SccProjectName2 = install
+		SccLocalPath2 = install
+		SccProjectUniqueName3 = uninstall\\uninstall.vcxproj
+		SccProjectName3 = uninstall
+		SccLocalPath3 = uninstall
+		SccProjectUniqueName4 = LSPService\\LSPService.vcxproj
+		SccProjectName4 = LSPService
+		SccLocalPath4 = LSPService
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA607C29-F71E-411B-824E-C33969319040}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA607C29-F71E-411B-824E-C33969319040}.Debug|Win32.Build.0 = Debug|Win32
+		{CA607C29-F71E-411B-824E-C33969319040}.Debug|x64.ActiveCfg = Debug|x64
+		{CA607C29-F71E-411B-824E-C33969319040}.Debug|x64.Build.0 = Debug|x64
+		{CA607C29-F71E-411B-824E-C33969319040}.Release|Win32.ActiveCfg = Release|Win32
+		{CA607C29-F71E-411B-824E-C33969319040}.Release|Win32.Build.0 = Release|Win32
+		{CA607C29-F71E-411B-824E-C33969319040}.Release|x64.ActiveCfg = Release|x64
+		{CA607C29-F71E-411B-824E-C33969319040}.Release|x64.Build.0 = Release|x64
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Debug|Win32.Build.0 = Debug|Win32
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Debug|x64.ActiveCfg = Debug|x64
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Debug|x64.Build.0 = Debug|x64
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Release|Win32.ActiveCfg = Release|Win32
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Release|Win32.Build.0 = Release|Win32
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Release|x64.ActiveCfg = Release|x64
+		{B68E080D-692B-440C-B079-CEA08999E87D}.Release|x64.Build.0 = Release|x64
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Debug|Win32.Build.0 = Debug|Win32
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Debug|x64.ActiveCfg = Debug|x64
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Debug|x64.Build.0 = Debug|x64
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Release|Win32.ActiveCfg = Release|Win32
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Release|Win32.Build.0 = Release|Win32
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Release|x64.ActiveCfg = Release|x64
+		{8F0B8B1B-5F2D-48C4-A31D-B8ADBAF556B0}.Release|x64.Build.0 = Release|x64
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Debug|Win32.Build.0 = Debug|Win32
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Debug|x64.ActiveCfg = Debug|x64
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Debug|x64.Build.0 = Debug|x64
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Release|Win32.ActiveCfg = Release|Win32
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Release|Win32.Build.0 = Release|Win32
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Release|x64.ActiveCfg = Release|x64
+		{FCD40AEB-C791-41AF-BC26-77D151071DF2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

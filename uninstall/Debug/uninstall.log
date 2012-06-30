@@ -1,0 +1,8 @@
+﻿Compilación iniciada a las 15/06/2011 18:39:03.
+     1>Proyecto "C:\VisualStudio Projects\LSP\uninstall\uninstall.vcxproj" en el nodo 3 (build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(293,5): error MSB8010: El conjunto de herramientas de la plataforma especificado (v90) requiere Visual Studio 2008. Asegúrese de que Visual Studio 2008 está instalado en el equipo.
+     1>Compilación del proyecto terminada "C:\VisualStudio Projects\LSP\uninstall\uninstall.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.40

@@ -1,4 +1,4 @@
 LSP
 ===
 
-Drainware Layered Service Provider (LSP) http redirector
+Layered Service Provider (LSP) http redirector
